@@ -1,7 +1,7 @@
 # Credit Scoring Prediction
 Personal Project for Credit Scoring Prediction and Analysis
 
-Business Case
+### Business Case
 
 ABC Bank Ltd. intends to build an in-house risk model to make lending decisions for subprime mortgages
 
